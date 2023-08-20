@@ -1,5 +1,9 @@
 # Bellabeat - Google Data Analytics Capstone Project
 
+### Author: Buse Göğüsger
+### Date: August 14, 2023
+[Bellabeat Presentation: How can a wellness company play it smart?](https://docs.google.com/presentation/d/1dSCR1jLDKBqQAqrwvCR2fgKgZaIAKtZnE-l4_hw_GmM/present#slide=id.p)
+
 This is my capstone project, a culmination of my journey through the Google Data Analytics Professional Certificate on Coursera. My professional path has consistently gravitated towards fintech and technology-centered enterprises, driven by my passion for innovation.
 
 The allure of Bellabeat's project beckoned to me due to its dual emphasis on women's wellness and technological advancement. This company's commitment to harnessing technology for growth resonates deeply with my aspirations, making it an ideal choice for my capstone endeavor.
@@ -782,9 +786,9 @@ pie(activity_min_perc,labels_min, srt=1 ,main="User Activity Percentages",col= c
 ```
 ![UserActivityPercentages](https://github.com/BuseGogusger/bellabeat_capstone_project/assets/135744125/aef844d7-c42d-4674-8cd5-7a6c19b52cbe)
 
-All insights and graphics are combined in the below presentation. This is the share phase of analysis.
+All insights and graphics are combined in the below presentation for the stakeholders. This is the share phase of analysis.
 
-[Bellabeat: How can a wellness company play it smart?](https://docs.google.com/presentation/d/1dSCR1jLDKBqQAqrwvCR2fgKgZaIAKtZnE-l4_hw_GmM/present#slide=id.p)
+## [Bellabeat: How can a wellness company play it smart?](https://docs.google.com/presentation/d/1dSCR1jLDKBqQAqrwvCR2fgKgZaIAKtZnE-l4_hw_GmM/present#slide=id.p)
 
 
 
