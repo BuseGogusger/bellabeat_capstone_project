@@ -803,14 +803,10 @@ Its time to offer some recommendations and share final conclusions on my analysi
 
 ### **References**
 
+- Kaggle: FitBit Fitness Tracker Data and stored in 18 csv files. (CC0: Public Domain, dataset made available through Kaggle member Möbius) https://www.kaggle.com/datasets/arashnic/fitbit 
 - World Health Organisation. "Physical activity." October 5, 2022. https://www.who.int/news-room/fact-sheets/detail/physical-activity
 - CDC. "Body Measurements." https://www.cdc.gov/nchs/fastats/body-measurements.htm
 - National Library of Medicine. "The Extraordinary Importance of Sleep." December 2018. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6281147/
 - National Sleep Foundation. "What Causes Insomnia?" August 8, 2023. https://www.sleepfoundation.org/insomnia/what-causes-insomnia
 - National Heart, Lung, and Blood Institute. "Your Guide to Healthy Sleep." January 2011. https://www.nhlbi.nih.gov/resources/your-guide-healthy-sleep
 - Harvard Health Publishing. "Burning Calories Without Exercise." February 15, 2021. https://www.health.harvard.edu/staying-healthy/burning-calories-without-exercise
-
-
-
-
-
