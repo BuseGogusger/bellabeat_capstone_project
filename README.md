@@ -19,12 +19,18 @@ Our team has been asked to analyze non-Bellabeat smart device data to gain insig
 
 This case study follows the six step data analysis process called APPASA
 
-1. Ask
-2. Prepare
-3. Process
-4. Analyze
-5. Share
-6. Act
+[1. Ask](https://github.com/BuseGogusger/bellabeat_capstone_project#1-ask)
+
+[2. Prepare](https://github.com/BuseGogusger/bellabeat_capstone_project#2-prepare)
+
+[3. Process](https://github.com/BuseGogusger/bellabeat_capstone_project#3-process)
+
+[4. Analyze](https://github.com/BuseGogusger/bellabeat_capstone_project#4-analyze)
+
+[5. Share](https://github.com/BuseGogusger/bellabeat_capstone_project#5-share)
+
+[6. Act](https://github.com/BuseGogusger/bellabeat_capstone_project#6-act)
+
 
 ## **1. Ask**
 
